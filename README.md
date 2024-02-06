@@ -1,3 +1,7 @@
+![Screenshot_1707223771](https://github.com/sairamchow5555/todo_app/assets/126855559/8515812d-8b37-4bbe-b398-a138f93384e8)
+![Screenshot_1707223790](https://github.com/sairamchow5555/todo_app/assets/126855559/bac01a52-e099-4550-85de-580b0b9d0e5d)
+![Screenshot_1707223800](https://github.com/sairamchow5555/todo_app/assets/126855559/75d29ad6-b71f-45e9-a257-6d9399be5afb)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started

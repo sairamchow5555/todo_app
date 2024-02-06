@@ -8,7 +8,7 @@
 import React from 'react';
 import { SafeAreaView, View } from 'react-native';
 
-import { Todo, todoContext } from './src/realm';
+import { todoContext } from './src/realm';
 import { TodoList } from './src/TodoList';
 const { RealmProvider } = todoContext;
 

@@ -23,15 +23,15 @@ export class Todo extends Realm.Object {
 
 export const todoContext = createRealmContext({
     schema: [Todo],
-    onFirstOpen(realm){
-        console.log("onFirstOpen called");
-        realm.write(() => {
-            realm.create('Todo',{
-                _id: new Realm.BSON.ObjectID(),
-                description: 'Welcome to ToDo App',
-                completed: true,
-                createdAt: new Date(),
-            });
-        });
-    },
+    // onFirstOpen(realm){
+    //     console.log("onFirstOpen called");
+    //     realm.write(() => {
+    //         realm.create('Todo',{
+    //             _id: new Realm.BSON.ObjectID(),
+    //             description: 'Welcome to ToDo App',
+    //             completed: true,
+    //             createdAt: new Date(),
+    //         });
+    //     });
+    // },
 });

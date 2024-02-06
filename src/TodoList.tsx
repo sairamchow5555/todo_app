@@ -1,5 +1,5 @@
 import React, { useCallback } from "react";
-import { Button, FlatList, Pressable, Text, TextInput, View } from "react-native";
+import { FlatList, Pressable, Text, TextInput, View } from "react-native";
 
 import { todoContext, Todo } from "./realm";
 import { TodoItem } from "./TodoItem";
